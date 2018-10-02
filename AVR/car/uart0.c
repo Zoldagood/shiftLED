@@ -44,7 +44,8 @@ ISR(USART0_RX_vect)
 	volatile unsigned char data;
 	
 	// rx_buffer[] full, 마지막 수신 문자 버림
-	if( (rx0_head+1==rx0_tail) || ((rx0_head==LENGTH_RX0_BUFFER-1) && (rx0_tail==0)) ){
+	if( (rx0_head+1==rx0_tail) || ((rx0_head==LENGTH_RX0_BUFFER-1) && (rx0_tail==0)) )
+	{
 		data = UDR0;
 		}else{
 		rx0_buffer[rx0_head] = UDR0;
