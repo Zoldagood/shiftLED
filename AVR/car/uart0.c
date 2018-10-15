@@ -27,7 +27,7 @@ void UART0_transmit(char data)
 }
 
 // 인터럽트에 의한 문자 수신 호출
-int UART0_receive(FILE *stream)
+int UART0_receive()
 {	unsigned char data;
 	
 	while( rx0_head==rx0_tail );	// 수신 문자가 없음

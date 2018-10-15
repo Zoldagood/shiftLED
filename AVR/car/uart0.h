@@ -11,7 +11,7 @@
 extern	void UART0_init(unsigned int ubrr_baud);
 extern  void UART0_print_string(char *str);
 extern	void UART0_transmit(char data);
-extern	int UART0_receive(FILE *stream);
+extern	int UART0_receive();
 extern	int	UART0_rx_check(void);
 
 #endif
