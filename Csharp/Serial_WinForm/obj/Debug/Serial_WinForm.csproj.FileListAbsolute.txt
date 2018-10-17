@@ -1,0 +1,10 @@
+D:\jhGit\Csharp\Serial_WinForm\bin\Debug\Serial_WinForm.exe.config
+D:\jhGit\Csharp\Serial_WinForm\bin\Debug\Serial_WinForm.exe
+D:\jhGit\Csharp\Serial_WinForm\bin\Debug\Serial_WinForm.pdb
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.csprojAssemblyReference.cache
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.Form1.resources
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.Properties.Resources.resources
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.csproj.GenerateResource.cache
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.csproj.CoreCompileInputs.cache
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.exe
+D:\jhGit\Csharp\Serial_WinForm\obj\Debug\Serial_WinForm.pdb
